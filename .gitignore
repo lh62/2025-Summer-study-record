@@ -5,3 +5,6 @@
 build/
 cmake-build-debug/
 goals/
+.venv/
+__pycache__/
+api_key.yaml
